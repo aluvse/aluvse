@@ -1,7 +1,7 @@
 
 ## - 👋 Hi, I’m aluvse golang, web developer
 ## - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
-## - 📫 How to reach me: [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kebradooj)
+## - 📫 How to reach me: [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aluvse)
 
 <details close>
   <summary>always remember why you started ( 🇨🇦, 🇺🇸, fam💘 ) </summary>
