@@ -20,9 +20,6 @@
     <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluvse&layout=compact">
     <img alt="GitHub Stats" height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=aluvse&border_radius=4">
 </a>
-<div href="https://github.com/aluvse/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aluvse">
-</div>
 <!---
 aluvse/aluvse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
