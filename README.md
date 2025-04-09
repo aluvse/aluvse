@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m aluvse golang, web developer
+## - 👋 yo, I’m aluvse golang backend developer
 
 ## - 🌱I'm seeking collaborations and opportunities to work with companies that are dedicated to helping others and contributing to a better world.
 
