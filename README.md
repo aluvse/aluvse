@@ -1,4 +1,4 @@
-# ⚡ Data Software Engineer  
+# ⚡ Software Engineer  
 
 Learning to design **data pipelines**, optimize **databases**, and solve **real-world problems** with Python, SQL, and Go.  
 Focused on **clean architecture**, **algorithms**, and becoming a stronger engineer every day.  
