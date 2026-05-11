@@ -1,15 +1,15 @@
-```python
-while True:
-    code = get_problem()
-    solution = build_solution(code)
-    deploy(solution)
-    learn()
+```ts
+const developer = {
+  stack: ["React", "TypeScript", "Next.js"],
+  mindset: ["Learn", "Build", "Break", "Fix"]
+}
+
 ```
 
-**Building systems that breathe** 🌀  
-*Data flows, code grows, architectures evolve*
+**Building products that feel alive** 🌀<br>
+*Interfaces evolve, systems adapt, ideas become reality*
 
-Turning complex problems into elegant solutions  
-One line at a time ⚡
+Turning complexity into seamless user experiences<br>
+One component at a time ⚡
 
 ---
